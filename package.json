@@ -1,0 +1,23 @@
+{
+  "name": "dm-node-express-example",
+  "version": "1.0.0",
+  "description": "A Repo for helping students see working examples and structure of NodeJS and ExpressJS code.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/screamworks/dm-node-express-example.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/screamworks/dm-node-express-example/issues"
+  },
+  "homepage": "https://github.com/screamworks/dm-node-express-example#readme",
+  "dependencies": {
+    "body-parser": "^1.18.1",
+    "express": "^4.15.4"
+  }
+}
