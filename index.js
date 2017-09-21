@@ -20,6 +20,7 @@ const pokemon = [
 
 const app = express();
 
+
 app.use(bodyParser.json());
 
 app.get('/api/pokemon', function(req, res, next) {
